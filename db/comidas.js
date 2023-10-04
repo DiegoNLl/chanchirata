@@ -3,7 +3,7 @@ export const comidas = [
     "id": 1,
     "title": "Ají de Gallina",
     "description": "El ají de gallina es un plato típico de la gastronomía peruana, concretamente de la costa, ​ que consiste en un ají o crema espesa con pechuga de gallina deshilachada. Esta crema es servida con papas cocidas, y en ocasiones con arroz blanco. Es común reemplazar la gallina por pollo.",
-    "urlImage": "https://t2.rg.ltmcdn.com/es/images/3/8/7/img_aji_de_pollo_16783_600.jpg",
+    "urlImage": "https://imgmedia.buenazo.pe/600x338/buenazo/original/2023/06/26/6499bf204fb28f54f91a9289.png",
     "urlRecipe": "https://diariodegastronomia.com/aji-gallina-receta-peruana/",
     "tags": [
       "Ají de Gallina",
@@ -36,7 +36,7 @@ export const comidas = [
     "id": 4,
     "title": "Frejoles",
     "description": "El tacu tacu, es un plato peruano producto de la mixtura de la cocina de la diáspora Africana en el Perú y la cocina Peruana. Su origen proviene de la necesidad de usar la comida sobrante y no desperdicia...rla. La inmigración forzada de africanos que trabajaban de manera esclavizada en las grandes plantaciones costeñas; es donde se origina el punto de conexión entre la cocina africana, que mezclada a los potajes y aderezos peruanos.",
-    "urlImage": "https://www.nadu.pe/files/img-products/20170327110803.png",
+    "urlImage": "https://recetascocinaperuana.com/wp-content/uploads/2022/03/frejoles-canarios-peruanos.jpg",
     "urlRecipe": "https://www.recetasnestle.com.pe/recetas/main-course/frejoles",
     "tags": [
       "Frejoles",
